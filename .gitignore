@@ -1,0 +1,16 @@
+# Java / Gradle / Maven artifacts
+target/
+build/
+*.jar
+*.class
+
+# Environment & Secrets
+.env
+*.key
+*.secret
+
+# IDE & OS files
+.idea/
+*.iml
+.DS_Store
+.vscode/
